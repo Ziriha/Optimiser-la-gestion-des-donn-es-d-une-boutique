@@ -12,3 +12,5 @@ Ma mission :
 - Calculer certaines données comme le chiffre d'affaire total, le total CA en ligne
 - Analyser la variable "produit" pour detecter d'eventuelles valeurs aberrante, les lister, et les représenter
   graphiquement.
+  
+Notebook réalisé en python
